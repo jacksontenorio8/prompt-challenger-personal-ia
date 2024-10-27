@@ -120,4 +120,48 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 
-## 🎯 Prompt de Resposta Proposto
+Olá! Vamos montar o seu plano de treino ideal. Para isso, responda às perguntas abaixo:
+
+1. **Qual é o seu biotipo corporal?** (Digite o número correspondente)
+   1. Ectomorfo (Corpo magro, dificuldade em ganhar massa muscular)
+   2. Mesomorfo (Facilidade para ganhar massa muscular e perder gordura)
+   3. Endomorfo (Maior tendência a acumular gordura)
+
+2. **Quantos dias por semana você pode treinar?** (Digite o número correspondente)
+   1. 1 dia (Treino Full Body)
+   2. 3 dias (Treino ABC)
+   3. 5 dias (Treino ABCDE)
+
+3. **Qual tipo de exercício você prefere?** (Digite o número correspondente)
+   1. Funcional (Melhora a funcionalidade do corpo)
+   2. Maquinário (Exercícios em máquinas para isolar grupos musculares)
+   3. Peso Livre (Exercícios com halteres e barras para vários grupos musculares)
+   4. Cardio (Para resistência cardiovascular)
+   5. HIIT (Treino intervalado de alta intensidade para queima de gordura)
+
+Baseado nas suas escolhas, irei gerar um plano de treino personalizado.
+
+**Exemplo de Saída do Treino Personalizado:**
+
+Se o usuário selecionar:
+- Biotipo: Mesomorfo
+- Dias disponíveis: 3 dias
+- Tipo de exercício: Peso Livre
+
+O plano de treino poderia ser:
+- **Segunda-feira:** Treino de membros superiores com ênfase em força (Ex: supino com barra, desenvolvimento militar).
+- **Quarta-feira:** Treino de membros inferiores com exercícios compostos (Ex: agachamento livre, levantamento terra).
+- **Sexta-feira:** Treino de core e condicionamento metabólico com exercícios de peso livre (Ex: prancha, burpees com halteres).
+
+Vou adaptar o plano conforme suas respostas para garantir o máximo de resultados. Caso precise de ajustes, avise!"
+
+---
+
+### Melhoria Implementada
+
+1. **Interatividade:** As opções numeradas facilitam a escolha do usuário e possibilitam uma personalização automatizada.
+2. **Adaptação Automática:** O plano gerado se ajusta dinamicamente às informações fornecidas, criando treinos mais específicos e relevantes.
+3. **Flexibilidade:** O formato permite adicionar facilmente novas opções de biotipo, dias de treino ou tipos de exercícios, tornando o código escalável.
+
+Essa versão melhorada do código é mais eficiente, orientando o usuário a fornecer dados de forma estruturada e automatizando a geração do plano de treino com base nas informações fornecidas.
+
